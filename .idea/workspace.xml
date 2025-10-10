@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff4cc10f-b2ef-43e1-acf2-06098eab190a" name="更改" comment="" />
+    <list default="true" id="ff4cc10f-b2ef-43e1-acf2-06098eab190a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/builder_method/src/main/java/com/itheima/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder_method/src/main/java/com/itheima/builder/AutoCarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder_method/src/main/java/com/itheima/builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder_method/src/main/java/com/itheima/builder/ManualCarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder_method/src/main/java/com/itheima/director/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder_method/src/main/java/com/itheima/product/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +26,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/No-99-Tongji/software_design_patterns_impl.git",
+    "accountId": "b2566224-c550-44c6-af5a-a181943773cf"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -30,6 +47,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -41,6 +60,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true",
+    "应用程序.Main (1).executor": "Run",
     "应用程序.Main.executor": "Run"
   }
 }]]></component>
@@ -49,7 +69,20 @@
       <recent name="$PROJECT_DIR$/abstract_factorymethod" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Main" />
+      <module name="builder-method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itheima.Main" />
       <module name="software_design_pattern" />
@@ -63,19 +96,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="software_design_pattern" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="software_design_pattern" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Main (1)" />
         <item itemvalue="应用程序.Main" />
       </list>
     </recent_temporary>
@@ -97,6 +120,8 @@
       <updated>1759995125985</updated>
       <workItem from="1759995127582" duration="1731000" />
       <workItem from="1759996881181" duration="194000" />
+      <workItem from="1759997109337" duration="3464000" />
+      <workItem from="1760084592154" duration="635000" />
     </task>
     <servers />
   </component>
